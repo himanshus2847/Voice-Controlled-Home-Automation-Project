@@ -1,5 +1,5 @@
-#define fan 2
-#define bulb 3
+int fan=2;
+int bulb 3
 
 void setup() {
   // put your setup code here, to run once:
